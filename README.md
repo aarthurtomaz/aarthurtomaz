@@ -3,7 +3,7 @@
 **`Desenvolvedor Front-End`**
 
 Me chamo Arthur Tomaz de Freitas, tenho 18 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniRitter. Sou apaixonado por tecnologia e compartilho minhas experiências por meio do meu canal no YouTube, "[Arthur.Dev](https://www.youtube.com/@Tomaz_Dev
-)", onde mostro minha evolução com projetos web, além do meu LinkedIn, "[Arthur.Dev](https://www.linkedin.com/in/arthur-tomaz-de-freitas-95395839a/
+)", onde mostro minha evolução com projetos web, além do meu LinkedIn, "[ArthurTomaz](www.linkedin.com/in/arthurtomaz
 )."
 
 <p align="left">
